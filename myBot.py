@@ -211,6 +211,7 @@ def bot():
     pyautogui.dragRel(50,0)
     pyautogui.dragRel(-25,0)
     pyautogui.dragRel(0,30)
+    pyautogui.screenshot("myPythonPaintBot.png")
 
 # print on app
 Label(root, text = "  ").grid(column=0, row=0)
