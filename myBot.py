@@ -225,3 +225,5 @@ Label(root, text = "  ").grid(column=0, row=2)
 Label(root, text = "Developer: Kumar Anurag").grid(column=0, row=3)
 Label(root, text = "Instagram: kmranrg").grid(column=0, row=4)
 
+root.mainloop()
+
