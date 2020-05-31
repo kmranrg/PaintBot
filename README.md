@@ -18,4 +18,4 @@ a python script which makes a `human` in MS Paint automatically
 
 ## Youtube Video (Image Link):
 
-[![MS Paint Bot in Python Video](https://i9.ytimg.com/vi/qDFis7riFIk/mqdefault.jpg?time=1590862116732&sqp=CMzAyvYF&rs=AOn4CLBf-wy1nu2-I-JHL1Nsl-Nly0it5w)](https://youtu.be/qDFis7riFIk)
+[![MS Paint Bot in Python Video](https://github.com/kmranrg/PaintBot/blob/master/bot_thumbnail.jpg)](https://youtu.be/qDFis7riFIk)
