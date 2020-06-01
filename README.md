@@ -10,7 +10,7 @@ a python script which makes a `human` in MS Paint automatically
 ## Install Module:
 - `pip install pyautogui`
 
-## Instructions for ruuning the project:
+## Instructions for running the project:
 + Open `IDLE`
 + Go to `File` and choose `Open`
 + Choose `myBot.py` file
